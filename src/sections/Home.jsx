@@ -10,7 +10,7 @@ import Footer from './Footer'
 
 const Home = () => {
   return (
-    <div>
+    <div className='font-family: "Space Grotesk", sans-serif'>
         <Header/>
         <Hero/>
         <About/>

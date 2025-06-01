@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import prfImage from "../images/prm_mndir.jpg";
+import prfImage from "../images/myImg3.jpg";
 
 function About() {
   return (
@@ -15,8 +15,8 @@ function About() {
       <motion.img
         src={prfImage}
         alt="Krishna"
-        className=" w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full transition duration-300 hover:scale-105 hover:shadow-red-500/50"
-      />
+        className= "rounded-full shadow-2xl transition duration-300 hover:scale-105 hover:shadow-red-500/50 w-40 sm:w-56 md:w-64 lg:w-80 aspect-square object-contain p-4"
+     />
 
       {/* Text Content */}
       <div className="mt-10 lg:mt-0 lg:ml-16 space-y-5 text-center lg:text-left">

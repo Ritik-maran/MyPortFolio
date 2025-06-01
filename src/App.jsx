@@ -3,7 +3,7 @@ import Home from './sections/Home'
 
 const App = () => {
   return (
-    <div>
+    <div className="font-family: 'Inter', sans-serif;">
     <Home/>
     </div>
   )

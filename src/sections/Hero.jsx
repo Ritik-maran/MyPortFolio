@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
-import prfImage from "../images/Gym2.jpg";
+import prfImage from "../images/profileImage1.jpg";
 
 function Hero() {
   return (
@@ -18,8 +18,8 @@ function Hero() {
         <img
           src={prfImage}
           alt="Krishna"
-          className=" w-40 h-40 sm:w-56 sm:h-56 md:w-64 md:h-64 lg:w-80 lg:h-80 rounded-full shadow-2xl transition duration-300 hover:scale-105 hover:shadow-red-500/50"
-        />
+          className="rounded-full shadow-2xl transition duration-300 hover:scale-105 hover:shadow-red-500/50 w-40 sm:w-56 md:w-64 lg:w-80 aspect-square object-contain p-4"
+ />
 
         {/* Text Content */}
         <div className="space-y-3">
