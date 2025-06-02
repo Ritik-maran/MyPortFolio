@@ -11,7 +11,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'A fully responsive portfolio website showcasing my skills, experience, and projects.',
     image: 'https://images-platform.99static.com//7oFNtqVR8ahfgC4iiWRvwrTGjrY=/415x831:1242x1658/fit-in/500x500/99designs-contests-attachments/94/94965/attachment_94965358',
-    link: 'https://your-portfolio-link.com',
+    link: 'https://hindi-cinema-k3rr-git-main-ritik-marans-projects.vercel.app/',
   },
 ];
 
