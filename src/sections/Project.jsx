@@ -5,13 +5,13 @@ const projects = [
     title: 'MovieZone',
     description: 'A React-based movie listing platform with Tailwind styling and Context API for state management.',
     image: 'https://www.shutterstock.com/image-vector/logo-film-maker-video-design-260nw-1550779340.jpg',
-    link: 'https://movie-zone-r7ou-git-main-ritik-marans-projects.vercel.app/',
+    link: 'https://hindi-cinema-k3rr-git-main-ritik-marans-projects.vercel.app//',
   },
   {
     title: 'Portfolio Website',
     description: 'A fully responsive portfolio website showcasing my skills, experience, and projects.',
     image: 'https://images-platform.99static.com//7oFNtqVR8ahfgC4iiWRvwrTGjrY=/415x831:1242x1658/fit-in/500x500/99designs-contests-attachments/94/94965/attachment_94965358',
-    link: 'https://hindi-cinema-k3rr-git-main-ritik-marans-projects.vercel.app/',
+    link: 'https://my-port-folio-git-main-ritik-marans-projects.vercel.app',
   },
 ];
 
